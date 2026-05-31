@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productpave",
+        "uuid": 12529170,
+        "checksum": "yun8bh"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
